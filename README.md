@@ -93,27 +93,7 @@ http://127.0.0.1:5000
 
 ### Home Page
 
-Add screenshot here:
-
-```markdown
-![Home Page](screenshots/home.png)
-```
-
-### Add Student
-
-Add screenshot here:
-
-```markdown
-![Add Student](screenshots/add_student.png)
-```
-
-### Edit Student
-
-Add screenshot here:
-
-```markdown
-![Edit Student](screenshots/edit_student.png)
-```
+![Student Management System Home Page](Screenshot%20(6).png)
 
 ---
 
